@@ -1,0 +1,5 @@
+faster-whisper
+huggingface-hub
+numpy
+PyAudio
+webrtcvad-wheels
